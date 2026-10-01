@@ -57,7 +57,7 @@ The operator may update these Terms. The current version and effective date will
 
 ## 9. Contact
 
-Questions or concerns about these Terms: **[sirage.mo3@gmial.com]**.
+Questions or concerns about these Terms: **[sirage.mo3@gmai.com]**.
 
 ---
 
