@@ -57,7 +57,7 @@ The operator may update these Terms. The current version and effective date will
 
 ## 9. Contact
 
-Questions or concerns about these Terms: **[INSERT A MONITORED CONTACT EMAIL]**.
+Questions or concerns about these Terms: **[sirage.mo3@gmial.com]**.
 
 ---
 
@@ -116,4 +116,4 @@ Questions or concerns about these Terms: **[INSERT A MONITORED CONTACT EMAIL]**.
 
 ## 9. التواصل
 
-للاستفسارات حول هذه الشروط: **[أدخل بريدًا إلكترونيًا تتابعه]**.
+للاستفسارات حول هذه الشروط: **[sirage.mo3@gmial.com]**.
