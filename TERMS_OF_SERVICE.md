@@ -1,9 +1,8 @@
 # DisKingdom Bot — Terms of Service
 
 **Effective date:** October 1, 2026  
-**Service operator:** [INSERT YOUR LEGAL NAME OR BUSINESS NAME]  
-**Contact:** [INSERT A MONITORED CONTACT EMAIL]  
-**Governing location:** [INSERT YOUR COUNTRY/REGION, AFTER OBTAINING LOCAL LEGAL ADVICE]
+**Service operator:** [RageTN]  
+**Contact:** [sirage.mo3L]  
 
 These Terms apply to your access to and use of DisKingdom Bot, its commands, game features, and related services (the “Service”). By using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
