@@ -2,7 +2,7 @@
 
 **Effective date:** October 1, 2026  
 **Service operator:** [RageTN]  
-**Privacy contact:** [sirage.mo3]
+**Privacy contact:** [sirage.mo3@gmail.com]
 
 This policy describes information processed by DisKingdom Bot (the “Service”), why it is used, and the choices available to you. It should be read together with Discord’s own privacy policy. The Service is an independent bot and is not operated by Discord.
 
@@ -69,15 +69,15 @@ You can choose not to use optional AI or donation features. Depending on your lo
 
 This policy may be updated when the Service or its data practices change. The current version and effective date will be published at the Privacy Policy URL configured for the Discord application.
 
-Privacy questions or requests: **[INSERT A MONITORED CONTACT EMAIL]**.
+Privacy questions or requests: **[sirage.mo3@gmial.com]**.
 
 ---
 
 # سياسة الخصوصية لبوت DisKingdom
 
 **تاريخ السريان:** 1 أكتوبر 2026  
-**مشغّل الخدمة:** [أدخل اسمك القانوني أو اسم النشاط التجاري]  
-**للتواصل بشأن الخصوصية:** [أدخل بريدًا إلكترونيًا تتابعه]
+**مشغّل الخدمة:** [أRageTN]  
+**للتواصل بشأن الخصوصية:** [أsirage.mo3@gmial.com]
 
 توضح هذه السياسة المعلومات التي يعالجها بوت DisKingdom («الخدمة»)، وأسباب استخدامها، والخيارات المتاحة لك. تُقرأ هذه السياسة مع سياسة خصوصية Discord. البوت خدمة مستقلة ولا تديره Discord.
 
@@ -144,4 +144,4 @@ Privacy questions or requests: **[INSERT A MONITORED CONTACT EMAIL]**.
 
 قد تُحدّث هذه السياسة إذا تغيرت الخدمة أو ممارسات البيانات. تُنشر النسخة الحالية وتاريخ سريانها في رابط سياسة الخصوصية المسجل لتطبيق Discord.
 
-لأسئلة أو طلبات الخصوصية: **[أدخل بريدًا إلكترونيًا تتابعه]**.
+لأسئلة أو طلبات الخصوصية: **[sirage.mo3@gmial.com]**.
