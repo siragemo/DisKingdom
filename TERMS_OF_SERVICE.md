@@ -2,7 +2,7 @@
 
 **Effective date:** October 1, 2026  
 **Service operator:** [RageTN]  
-**Contact:** [sirage.mo3L]  
+**Contact:** [sirage.mo3@gmail.com]  
 
 These Terms apply to your access to and use of DisKingdom Bot, its commands, game features, and related services (the “Service”). By using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
@@ -64,9 +64,9 @@ Questions or concerns about these Terms: **[INSERT A MONITORED CONTACT EMAIL]**.
 # شروط خدمة بوت DisKingdom
 
 **تاريخ السريان:** 1 أكتوبر 2026  
-**مشغّل الخدمة:** [أدخل اسمك القانوني أو اسم النشاط التجاري]  
-**للتواصل:** [أدخل بريدًا إلكترونيًا تتابعه]  
-**القانون/الموقع الحاكم:** [أدخل بلدك أو منطقتك بعد استشارة قانونية محلية]
+**مشغّل الخدمة:** [RageTN]  
+**للتواصل:** [sirage.mo3@gmail.com]  
+
 
 تنطبق هذه الشروط على استخدام بوت DisKingdom وأوامره وميزات اللعبة والخدمات المرتبطة به («الخدمة»). باستخدام الخدمة، فإنك توافق على هذه الشروط. إذا لم توافق، فتوقف عن استخدامها.
 
