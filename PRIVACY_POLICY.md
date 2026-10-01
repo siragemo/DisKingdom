@@ -1,8 +1,8 @@
 # DisKingdom Bot — Privacy Policy
 
 **Effective date:** October 1, 2026  
-**Service operator:** [INSERT YOUR LEGAL NAME OR BUSINESS NAME]  
-**Privacy contact:** [INSERT A MONITORED CONTACT EMAIL]
+**Service operator:** [RageTN]  
+**Privacy contact:** [sirage.mo3]
 
 This policy describes information processed by DisKingdom Bot (the “Service”), why it is used, and the choices available to you. It should be read together with Discord’s own privacy policy. The Service is an independent bot and is not operated by Discord.
 
